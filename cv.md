@@ -12,6 +12,7 @@ P.S. My part-time roles and volunteer work have also provided me with a range of
    * Russian (Middle)
    * Turkish (Fluent)
    * Uzbek (Native Speaker)
+  
   PROGRAMMING LANGUAGES:
    * Python Basics
    * Javascript Basics
