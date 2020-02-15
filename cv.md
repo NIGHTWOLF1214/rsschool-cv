@@ -1,4 +1,4 @@
-** KILICHBEKOV ASILBEK **
+**KILICHBEKOV ASILBEK**
 1. :telephone: +998994368442
 2.  :email: [asilbekbakhtiyarjanovich@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 3. *telegram*: [A_Bahtiyarjanovich](http://t.me/A_Bahtiyarjanovich)
