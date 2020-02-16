@@ -1,0 +1,26 @@
+body{
+    background-image: url(images.jpg) ;
+    background-size: cover ;
+}
+
+body {
+    max-width: 1024px;
+    text-align: center; 
+    margin: 0 auto;
+    font-weight: 700;
+    }
+    h1,h3{
+        text-align: center; 
+    }
+    main{
+        text-align: left;
+    }
+    img {
+        
+        max-width: 300px;
+        max-height: 300;
+    }
+     footer{
+         text-align: left;
+     }
+    
